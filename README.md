@@ -1,14 +1,13 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Rocket Pay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto feito durante o evento exclusivo e gratuito <strong>Explorer Lab #01 </strong>, promovido pela <strong>Rocketseat</strong>.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -38,11 +37,3 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
